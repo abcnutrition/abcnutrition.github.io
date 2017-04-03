@@ -1,4 +1,6 @@
 /* your styles go here */
 h1.brand{
- color: #96c940 
+ color: #96c940;
+ font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+ font-weight: 300;
 }
