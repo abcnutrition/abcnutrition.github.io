@@ -7,3 +7,6 @@ h1.brand{
  text-transform: none;
  letter-spacing: 0.1em;
 }
+p.brand{
+ color: #96c940;
+}
