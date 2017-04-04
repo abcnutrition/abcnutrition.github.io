@@ -30,7 +30,6 @@ a i.fa,
 button i.fa {
   margin: 0 5px;
 }
-}
 .intro {
   min-height: 100vh;
   height: 100vh;
@@ -40,7 +39,7 @@ button i.fa {
     height: auto;
     min-height: 100vh;
   }
-}
+
 .intro-left {
   height: 100%;
   background: #fff;
@@ -55,12 +54,11 @@ button i.fa {
     transform: translateY(-50%);
     padding: 80px, 80px, 0px, 80px;
   }
-}
 @media (max-width: 991px) {
   .intro-left-content h1 {
     font-size: 30px;
   }
-}
+
 .intro-right {
   height: 100%;
   min-height: 500px;
@@ -179,7 +177,6 @@ a:focus {
   outline-offset: -2px;
 }
 
-
 /* responsive utilities */
 @media (max-width: 767px) {
   .text-center-xs {
@@ -190,7 +187,6 @@ a:focus {
     margin-left: auto;
     margin-right: auto;
   }
-}
 @media (min-width: 768px) and (max-width: 991px) {
   .text-center-sm {
     text-align: center !important;
@@ -200,7 +196,6 @@ a:focus {
     margin-left: auto;
     margin-right: auto;
   }
-}
 /* type */
 h1,
 h2,
@@ -269,7 +264,6 @@ p {
   .lead {
     font-size: 22.5px;
   }
-}
 .text-small {
   font-size: 13px;
 }
