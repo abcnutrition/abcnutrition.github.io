@@ -288,6 +288,10 @@ SOCIAL LINKS
   color: #cd4378;
   border-color: #cd4378;
 }
+.social a:hover.pinterest {
+  color: #ff2826;
+  border-color: #ff2826;
+}
 .social a:hover.email {
   color: #4a7f45;
   border-color: #4a7f45;
@@ -299,7 +303,7 @@ SOCIAL LINKS
 /* ========================================= */
 /* THEMING OF BOOTSTRAP COMPONENTS           */
 /* ========================================= */
-/* nav */
+/* nav */e
 .nav {
   margin-bottom: 0;
   padding-left: 0;
