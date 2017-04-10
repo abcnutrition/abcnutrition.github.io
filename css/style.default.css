@@ -1017,6 +1017,12 @@ h1,
 .h1 {
   font-size: 45px;
 }
+/* your styles go here */
+h1.brand{
+ color: #96c940;
+ font-weight: 300;
+}
+/*end of custom style*/
 h2,
 .h2 {
   font-size: 37px;
